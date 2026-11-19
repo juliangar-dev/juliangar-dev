@@ -1,10 +1,9 @@
-## 👋 Hola, soy Julián
+## Hola, soy Julián
 
-💻 Enfocado en desarrollo de software  
-🛠️ Trabajando con C++ y Python  
-📌 Construyendo proyectos para consolidar conocimientos y mejorar habilidades  
+Estudiante de **Ingeniería en Informática** (UBA) y de la **Tecnicatura Universitaria en Programación** (UTN). Técnico Maestro Mayor de Obras.
 
-### 🔧 Tecnologías
-- C++
-- Python
-- Git
+Me interesan el análisis de datos y la automatización con Python.
+
+**Herramientas:** Python · SQL · Git · Excel · AutoCAD
+
+**Proyecto actual:** análisis de la actividad constructiva en la Ciudad de Buenos Aires con datos abiertos.
